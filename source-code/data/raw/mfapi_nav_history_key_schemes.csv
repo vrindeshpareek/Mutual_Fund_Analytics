@@ -1,4 +1,10 @@
 scheme_code,expected_scheme_name,api_scheme_name,fund_house,date,nav
+125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,09-06-2026,194.38130
+125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,08-06-2026,191.90920
+125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,05-06-2026,194.75470
+125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,04-06-2026,194.52200
+125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,03-06-2026,194.08100
+125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,02-06-2026,193.12950
 125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,01-06-2026,192.31950
 125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,31-05-2026,193.68360
 125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,29-05-2026,193.68480
@@ -3090,6 +3096,12 @@ scheme_code,expected_scheme_name,api_scheme_name,fund_house,date,nav
 125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,20-11-2013,12.95490
 125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,19-11-2013,13.10680
 125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,18-11-2013,13.08940
+119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,09-06-2026,105.57930
+119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,08-06-2026,105.30840
+119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,05-06-2026,105.10700
+119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,04-06-2026,104.80950
+119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,03-06-2026,104.74960
+119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,02-06-2026,104.76630
 119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,01-06-2026,104.70250
 119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,29-05-2026,104.65700
 119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,27-05-2026,104.58330
@@ -6326,6 +6338,12 @@ scheme_code,expected_scheme_name,api_scheme_name,fund_house,date,nav
 119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,04-01-2013,103.06190
 119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,03-01-2013,103.03060
 119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,02-01-2013,103.00590
+120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,09-06-2026,103.52590
+120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,08-06-2026,102.48450
+120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,05-06-2026,103.81020
+120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,04-06-2026,103.64210
+120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,03-06-2026,103.48090
+120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,02-06-2026,103.59590
 120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,01-06-2026,103.09480
 120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,31-05-2026,104.30830
 120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,29-05-2026,104.31290
@@ -9633,6 +9651,12 @@ scheme_code,expected_scheme_name,api_scheme_name,fund_house,date,nav
 120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,04-01-2013,15.07020
 120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,03-01-2013,15.07370
 120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,02-01-2013,15.02530
+118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,09-06-2026,96.68490
+118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,08-06-2026,95.89520
+118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,05-06-2026,97.24560
+118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,04-06-2026,97.26210
+118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,03-06-2026,97.21670
+118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,02-06-2026,97.47830
 118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,01-06-2026,97.19440
 118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,29-05-2026,98.46560
 118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,27-05-2026,99.80920
@@ -12931,6 +12955,12 @@ scheme_code,expected_scheme_name,api_scheme_name,fund_house,date,nav
 118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,04-01-2013,14.80370
 118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,03-01-2013,14.73050
 118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,02-01-2013,14.69670
+119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,09-06-2026,6180.66850
+119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,08-06-2026,6174.20840
+119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,05-06-2026,6168.47550
+119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,04-06-2026,6160.94340
+119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,03-06-2026,6159.96260
+119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,02-06-2026,6158.96650
 119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,01-06-2026,6156.75320
 119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,29-05-2026,6151.11390
 119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,27-05-2026,6146.61180
@@ -16496,6 +16526,12 @@ scheme_code,expected_scheme_name,api_scheme_name,fund_house,date,nav
 119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,02-01-2013,24.00360
 119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,01-01-2013,23.99790
 119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,31-12-2012,23.99200
+120841,Kotak Bluechip,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,09-06-2026,244.23470
+120841,Kotak Bluechip,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,08-06-2026,242.15940
+120841,Kotak Bluechip,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,05-06-2026,246.08780
+120841,Kotak Bluechip,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,04-06-2026,246.07840
+120841,Kotak Bluechip,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,03-06-2026,245.65930
+120841,Kotak Bluechip,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,02-06-2026,246.85660
 120841,Kotak Bluechip,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,01-06-2026,246.98140
 120841,Kotak Bluechip,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,29-05-2026,248.66730
 120841,Kotak Bluechip,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,27-05-2026,251.22730

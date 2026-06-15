@@ -1,0 +1,7 @@
+scheme_code,expected_scheme_name,api_scheme_name,fund_house,scheme_type,scheme_category,date,nav,fetched_at
+125497,HDFC Top 100 Direct,SBI Small Cap Fund - Direct Plan - Growth,SBI Mutual Fund,Open Ended Schemes,Equity Scheme - Small Cap Fund,09-06-2026,194.38130,2026-06-10T19:14:21
+119551,SBI Bluechip,Aditya Birla Sun Life Banking & PSU Debt Fund  - DIRECT - IDCW,Aditya Birla Sun Life Mutual Fund,Open Ended Schemes,Debt Scheme - Banking and PSU Fund,09-06-2026,105.57930,2026-06-10T19:14:23
+120503,ICICI Bluechip,Axis ELSS Tax Saver Fund - Direct Plan - Growth Option,Axis Mutual Fund,Open Ended Schemes,Equity Scheme - ELSS,09-06-2026,103.52590,2026-06-10T19:14:24
+118632,Nippon Large Cap,Nippon India Large Cap Fund - Direct Plan Growth Plan - Growth Option,Nippon India Mutual Fund,Open Ended Schemes,Equity Scheme - Large Cap Fund,09-06-2026,96.68490,2026-06-10T19:14:25
+119092,Axis Bluechip,HDFC Money Market Fund - Growth Option - Direct Plan,HDFC Mutual Fund,Open Ended Schemes,Debt Scheme - Money Market Fund,09-06-2026,6180.66850,2026-06-10T19:14:27
+120841,Kotak Bluechip,quant Mid Cap Fund - Growth Option - Direct Plan,quant Mutual Fund,Open Ended Schemes,Equity Scheme - Mid Cap Fund,09-06-2026,244.23470,2026-06-10T19:14:40
